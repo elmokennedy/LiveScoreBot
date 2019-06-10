@@ -12,3 +12,17 @@ C:\Users\Виталий\source\repos\LiveScoreBot\BotDAL\obj\Debug\BotDAL.pdb
 C:\Users\Виталий\source\repos\LiveScoreBot\BotDAL\bin\Debug\Autofac.dll
 C:\Users\Виталий\source\repos\LiveScoreBot\BotDAL\bin\Debug\Autofac.pdb
 C:\Users\Виталий\source\repos\LiveScoreBot\BotDAL\bin\Debug\Autofac.xml
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\BotDAL.dll.config
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\BotDAL.dll
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\BotDAL.pdb
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\Autofac.dll
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\EntityFramework.dll
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\Autofac.pdb
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\Autofac.xml
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\EntityFramework.xml
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\obj\Debug\BotDAL.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\obj\Debug\BotDAL.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\obj\Debug\BotDAL.dll
+C:\Users\Виталий\Desktop\diploma\LiveScoreBot\BotDAL\obj\Debug\BotDAL.pdb

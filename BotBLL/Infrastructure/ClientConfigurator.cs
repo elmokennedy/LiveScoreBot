@@ -6,8 +6,10 @@ namespace BotBLL.Infrastructure
     {
         public static WebClient CreateWebClient(string authToken)
         {
-            var headerCollection = new WebHeaderCollection();
-            headerCollection.Add("X-Auth-Token", authToken);
+            var headerCollection = new WebHeaderCollection
+            {
+                { "X-Auth-Token", authToken }
+            };
 
             return new WebClient
             {

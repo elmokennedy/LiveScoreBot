@@ -1,0 +1,12 @@
+2019-06-09 18:13:03.6047 | DEBUG | Bot started
+2019-06-09 18:13:19.5715 | INFO | User with id 168986946 requested live matches
+2019-06-09 18:13:20.0645 | DEBUG | There was request for api.football-data.org
+2019-06-09 18:13:29.0704 | INFO | User with id 168986946 requested scheduled matches
+2019-06-09 18:13:29.1624 | DEBUG | There was request for api.football-data.org
+2019-06-09 18:13:33.1314 | DEBUG | There was request for api.football-data.org
+2019-06-09 18:13:46.1072 | DEBUG | New favourite match has been added for user with id 168986946
+2019-06-09 18:13:49.4792 | INFO | User with id 168986946 requested favourite matches
+2019-06-09 18:13:49.4792 | DEBUG | Favourite matches for user id 168986946 were got from Database
+2019-06-09 18:13:49.5702 | DEBUG | There was request for api.football-data.org
+2019-06-09 18:13:55.5601 | INFO | User with id 168986946 requested information
+2019-06-09 18:14:02.3770 | DEBUG | Stadium with name Camp Nou were got from Database
